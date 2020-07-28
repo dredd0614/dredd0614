@@ -2,6 +2,6 @@
 
 #### I'm a Full-Stack Mobile Developer working in NYC.
 
-- 🏢 I'm currently working at **NewsCorp**
+- 🏢  I'm currently working at **NewsCorp**
 
 More to come later!
